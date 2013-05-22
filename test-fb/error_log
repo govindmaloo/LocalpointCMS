@@ -1,0 +1,35 @@
+[22-Dec-2011 03:49:26] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:57:58] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:01] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:04] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:05] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:05] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:06] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:06] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:06] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:06] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:07] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:07] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:07] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:08] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[22-Dec-2011 03:58:08] PHP Fatal error:  Uncaught OAuthException: (#200) The user hasn't authorized the application to perform this action
+  thrown in /home/lpcms/public_html/test-fb/fb/src/base_facebook.php on line 1039
+[26-Dec-2011 02:36:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/lpcms/public_html/test-fb/2.php on line 8
+[26-Dec-2011 03:04:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/lpcms/public_html/test-fb/2.php on line 8
+[26-Dec-2011 03:05:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/lpcms/public_html/test-fb/2.php on line 8
+[26-Dec-2011 04:07:13] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/lpcms/public_html/test-fb/2.php on line 4
+[30-Dec-2011 01:39:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lpcms/public_html/test-fb/1.php:2) in /home/lpcms/public_html/test-fb/1.php on line 23

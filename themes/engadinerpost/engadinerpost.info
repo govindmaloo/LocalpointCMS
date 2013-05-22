@@ -1,0 +1,55 @@
+  name         = engadinerpost
+  description  = An elegant, flexible and powerful starter theme by CRMNext
+  core         = 7.x
+  engine       = phptemplate
+  screenshot   = engadinerpos.jpg
+
+; The regions defined in the page.tpl.php file. The name in brackets is the 
+; name of the variable. The text after the = sign is the short description 
+; you see on the block configuration page.
+  regions[sidebar_first]      = Sidebar first
+  regions[sidebar_second]     = Sidebar second
+  regions[bot_sidebar_first]  = Bottom Sidebar first
+  regions[bot_sidebar_second] = Bottom Sidebar second
+  regions[widget]			  = Graphical Service Widget
+  regions[content]            = Main Content
+  regions[highlighted]        = Highlighted
+  regions[header]             = Header
+  regions[footer]             = Footer
+  regions[help]               = Help
+  regions[page_top]           = Page top
+  regions[page_bottom]        = Page bottom
+  regions[main_menu_links]	  = Main Menu Links
+  regions[search_box]	      = Search Box
+  regions[social_menu]	      = Social Menu
+  
+  
+  settings[social_links] = 1
+  settings[facebook_logo_path]= images/facebook.jpg
+  settings[twitter_logo_path]= images/twitter.jpg
+  settings[rss_logo_path]= images/rss.jpg
+  settings[facebook_url_path]= http://www.facebook.com/
+  settings[twitter_url_path]= http://www.twitter.com/
+  settings[rss_url_path]= rss.xml
+  settings[floating_main_menu] = 1
+  settings[enable_styles] = 'on'
+  settings[enable_color] = 0
+
+  
+; Genesis core styles.
+  stylesheets[all][] = css/menustyle.css
+  stylesheets[all][] = css/layout.css
+  stylesheets[all][] = css/admin-styles.css
+  stylesheets[all][] = css/styles.css
+  stylesheets[all][] = css/suckerfish.css
+  stylesheets[all][] = colors.css
+
+
+; Redefine the default location of scripts.js
+  scripts[] = js/suckerfish.js
+  
+; Information added by drupal.org packaging script on January 1, 1970 - 00:00
+version = "7.x-1.2"
+core = "7.x"
+project = "engadinerpost"
+datestamp = "1295212296"

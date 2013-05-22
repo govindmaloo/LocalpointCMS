@@ -1,0 +1,14 @@
+drush @avs.prod cron
+drush @gru.prod cron
+drush @shlz.prod cron
+drush @epo.prod cron
+drush @sb.prod cron
+drush @sur.prod cron
+drush @nfz.prod cron
+drush @wa.prod cron
+drush @reg.prod cron
+drush @ent.prod cron
+drush @wb.prod cron
+drush @vol.prod cron
+drush @fru.prod cron
+drush @wow.prod cron

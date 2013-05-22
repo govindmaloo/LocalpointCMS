@@ -1,0 +1,50 @@
+/* CSS Document */
+
+html, body
+{
+	margin:0px;
+	padding:0px;
+	color: #333333;
+    font-family: Arial,sans-serif;
+    font-size: small;
+    font-weight: normal;
+    line-height: 150%;
+}
+
+.sidebar div.block-inner{margin-bottom:10px;padding-bottom:5px;}
+.sidebar div.node{margin-bottom:0px; padding-bottom:0px;}
+.sidebar div.content{padding:0 5px;}
+
+.content_all div.main_content, .content_all .sidebar{ display:inline }
+
+ .sidebar-two-column .main_content{float:left; width:40% ; overflow:hidden }
+.sidebar_first .main_content{float:left; width:75%; overflow:hidden}
+ .sidebar_second .main_content{float:left; width:65%; overflow:hidden}
+ 
+ .sidebar_first .sidebar{float:right; width:25%; overflow:hidden}
+ .sidebar_second .sidebar{float:right; width:35%; overflow:hidden}
+ .sidebar-two-column .sidebar{float:right; width:60%; overflow:hidden}
+ 
+ .sidebar-no-column .main_content{width:100%;; overflow:hidden}
+  .sidebar-no-column .main_content .inner_container{margin:0px 2%; width:96%; padding::0px; overflow:hidden;}
+.sidebar .sidebar-column1{width:40%;; overflow:hidden}
+.sidebar .sidebar-column2{width:55%;; overflow:hidden}
+.sidebar_first .sidebar .sidebar-column1{width:100%;; overflow:hidden}
+.sidebar_second .sidebar .sidebar-column2{width:100%;; overflow:hidden}
+
+ .sidebar-two-column .sidebar .widget{width:100%;claer:both;; overflow:hidden}
+ 
+#bg_container{width:994px;margin:3px auto auto }
+
+#sidebar-bot-column-right{float:right}
+#sidebar-bot-column-left{float:left}
+
+#sidebar-top-column-right{float:right}
+#sidebar-top-column-left{float:left}
+
+#user-page .main_content{width:100%;}
+#comment-page .main_content{width:100%;}
+
+#block-views-article_category-category, #block-views-archive-block, #block-views-article_category-block_1{width:50%; float:left;}
+
+#page-top-wrapper, #page-bottom-wrapper {width:auto; padding:5px;}

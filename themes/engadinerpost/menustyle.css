@@ -1,0 +1,43 @@
+/* CSS Document */
+#main_menu_wrapper{
+	position:relative;
+	float:left;
+}
+#main_menu_wrapper ul.menu{
+	list-style-type: none;
+	margin: 0px;
+	padding:0px;
+}
+#main_menu_wrapper ul.menu li{
+	display: inline;
+	margin:0px 5px 0px 0px;
+	background-color: #FFF;
+	float: left;
+}
+#main_menu_wrapper ul.menu li a{
+	color: #000;
+	text-decoration:none;
+	text-transform:capitalize;
+	padding:3px;
+}
+#main_menu_wrapper ul.menu li a:hover, #main_menu_wrapper ul.menu a:focus{
+	text-decoration:none;
+	background-color: #CCC;
+}
+
+#main_menu_wrapper ul.menu li.active a{
+	background-color: #CCC;
+} 
+#main_menu_wrapper ul.menu li.last {margin-right:0px;}
+.container h2
+{	
+	border-bottom:1px dotted #CCCCCC;
+}
+ .search-wrapper
+{	
+	float:right;
+}
+#menu-with-search
+{
+	padding:10px 0px;;
+}

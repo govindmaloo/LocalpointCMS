@@ -1,0 +1,90 @@
+/* CSS Document */
+
+html, body
+{
+	margin:0px;
+	padding:0px;
+    line-height: 150%;
+}
+
+#header{position:relative;}
+
+
+.sidebar div.block-inner{margin-bottom:10px;padding-bottom:5px;}
+.sidebar div.node{margin-bottom:0px; padding-bottom:0px;}
+.sidebar div.content{
+	padding:0;
+}
+
+.content_all div.main_content, .content_all .sidebar{ display:inline }
+
+ .sidebar-two-column .main_content{
+	float:left;
+	width:375px;
+	margin: 0px;
+	padding: 0px;
+}
+.sidebar_first .main_content{float:left; width:75%; }
+ .sidebar_second .main_content{float:left; width:65%; }
+ 
+ .sidebar_first .sidebar{float:right; width:25%; }
+ .sidebar_second .sidebar{float:right; width:35%; }
+ .sidebar-two-column .sidebar{
+	float: left;
+	width: 576px;
+	padding-left: 24px;
+}
+ 
+ .sidebar-no-column .main_content{width:100%;; overflow:hidden}
+  .sidebar-no-column .main_content .inner_container{margin:0px 2%; width:96%; padding::0px; }
+.sidebar .sidebar-column1{
+	width:245px;
+	;
+	float: left;
+	margin-right: 24px;
+}
+.sidebar .sidebar-column2{
+	width:300px;
+	;
+}
+.sidebar_first .sidebar .sidebar-column1{width:100%; }
+.sidebar_second .sidebar .sidebar-column2{width:100%;}
+
+ .sidebar-two-column .sidebar .widget{
+	width:574px;
+	claer:both;
+	;
+	float: left;
+}
+ 
+#bg_container, #page{
+	width:983px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding: 0;
+}
+
+#sidebar-bot-column-right{
+	float:left
+}
+#sidebar-bot-column-left{float:left}
+
+#sidebar-top-column-right{
+	float:left
+}
+#sidebar-top-column-left{
+	float:left;
+}
+
+#user-page .main_content, #taxonomy-page .main_content{width:100%;}
+
+#taxonomy-page .content{width:70%;margin:auto;}
+#comment-page .main_content{width:100%;}
+
+#block-views-article_category-block_1{width:48%; float:left;}
+#block-views-archive-block{width:48%; float:right;}
+
+#page-top-wrapper, #page-bottom-wrapper {width:auto; padding:5px;}
+.highlighted{padding:10px;margin:10px; clear:both; border:solid 1px #999; background:#F5F5F5}

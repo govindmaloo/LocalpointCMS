@@ -1,0 +1,25 @@
+file Name : feed2js.php
+
+
+
+Line No 206 :  if ($item['link']) {
+				// link url
+				$my_url = addslashes($item['link']);
+			} elseif  ($item['guid']) {
+				//  feeds lacking item -> link
+				$my_url = ($item['guid']);
+			}
+
+
+
+Line No 206 :  if ($item['content']['encoded']) {
+				// link url				
+				$img = $item['content']['encoded'];	
+				$src = array();
+				preg_match( '/src="([^"]*)"/i', $img, $src ) ;
+				$my_url= $src[1];
+				$my_url = addslashes($my_url);
+			} elseif  ($item['guid']) {
+				//  feeds lacking item -> link
+				$my_url = ($item['guid']);
+			}

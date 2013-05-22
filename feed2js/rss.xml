@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="http://www.localpoint.ch/localpointtv/WOA/LP_WW_10_4.xml" rel="self" type="application/rss+xml" />
+    <title>WOA</title>
+    <link>http://www.localpoint.ch</link>
+    <description />
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Apr 2011 04:12:02 GMT</lastBuildDate>
+    <generator>localpoint.ch</generator>
+    <item>
+      <title>Detailhandelsfachfrau gesucht; Volg Waltenschwil</title>
+      <link>http://www.google.com</link>
+      <guid>http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_3_lptv.jpg</guid>
+      <description />
+      <content:encoded>&lt;img alt=&quot;Detailhandelsfachfrau gesucht; Volg Waltenschwil&quot; width=&quot;312&quot; height=&quot;504&quot; src=&quot;http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_3_lptv.jpg&quot; border=&quot;0&quot; /&gt;</content:encoded>
+      <category>Job</category>
+      <dc:creator>WOA-Allmedia</dc:creator>
+      <pubDate>Mon, 18 Apr 2011 22:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Product Manager/Product Managerin gesucht; Similasan AG, Jonen</title>
+      <link>http://www.google.com</link>
+      <guid>http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_1_lptv.jpg</guid>
+      <description />
+      <content:encoded>&lt;img alt=&quot;Product Manager/Product Managerin gesucht; Similasan AG, Jonen&quot; width=&quot;354&quot; height=&quot;684&quot; src=&quot;http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_1_lptv.jpg&quot; border=&quot;0&quot; /&gt;</content:encoded>
+      <category>Job</category>
+      <dc:creator>WOA-Allmedia</dc:creator>
+      <pubDate>Mon, 18 Apr 2011 22:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Serviertochter gesucht; Rest. Schlossberg, Zufikon</title>
+      <link>http://www.google.com</link>
+      <guid>http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_10_lptv.jpg</guid>
+      <description />
+      <content:encoded>&lt;img alt=&quot;Serviertochter gesucht; Rest. Schlossberg, Zufikon&quot; width=&quot;312&quot; height=&quot;146&quot; src=&quot;http://www.localpoint.ch/localpointtv/WOA/20110419_WOA_12_10_lptv.jpg&quot; border=&quot;0&quot; /&gt;</content:encoded>
+      <category>Job</category>
+      <dc:creator>WOA-Allmedia</dc:creator>
+      <pubDate>Mon, 18 Apr 2011 22:47:17 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
